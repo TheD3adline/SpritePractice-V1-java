@@ -1,0 +1,3 @@
+# SpritePractice-V1-java
+
+set and print a bit pattern practice...
